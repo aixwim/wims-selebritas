@@ -1,0 +1,26 @@
+{
+  "repo": "wims-selebritas",
+  "siteName": "Wim Selebritas",
+  "logoText": "selebritas",
+  "logoPrefix": "wim",
+  "tagline": "Tagline Wim Selebritas",
+  "description": "Deskripsi meta Wim Selebritas.",
+  "ogTitle": "Judul OG<br>untuk Wim Selebritas",
+  "ogSubtitle": "Subtitle OG singkat dan informatif.",
+  "category": "selebritas",
+  "categoryLabel": "Selebritas",
+  "parent": "wims",
+  "children": [],
+  "related": [
+    "wims-style",
+    "wims-entertainment"
+  ],
+  "brand": {
+    "accent": "#ec4899",
+    "accent2": "#f43f5e"
+  },
+  "giscus": {
+    "repoId": "REPO_ID",
+    "categoryId": "CATEGORY_ID"
+  }
+}
