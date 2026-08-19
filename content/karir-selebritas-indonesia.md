@@ -3,6 +3,8 @@ title: "Perjalanan Karir di Industri Hiburan Indonesia"
 date: "2026-08-18"
 category: "Selebritas"
 excerpt: "Gambaran umum perjalanan karir di industri hiburan Indonesia, dari memulai debut hingga bertahan di tengah persaingan yang ketat."
+meta_title: "Perjalanan Karir di Industri Hiburan Indonesia"
+meta_description: "Simak perjalanan karir di industri hiburan Indonesia, dari memulai debut, bertahan di tengah persaingan ketat, hingga membangun karir yang berkelanjutan."
 tags: ["karir", "industri hiburan", "selebritas"]
 ---
 

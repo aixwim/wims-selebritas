@@ -3,6 +3,8 @@ title: "Dampak Media Sosial pada Karir Selebritas"
 date: "2026-08-19"
 category: "Selebritas"
 excerpt: "Media sosial mengubah cara selebritas membangun citra, menjangkau penggemar, dan mencari peluang karir di industri hiburan modern."
+meta_title: "Media Sosial Mengubah Karir Selebritas di Industri"
+meta_description: "Media sosial mengubah cara selebritas membangun citra, menjangkau penggemar, dan membuka peluang karir, sekaligus menuntut kewaspadaan menjaga reputasi."
 tags: ["media sosial", "karir", "selebritas", "penggemar"]
 ---
 

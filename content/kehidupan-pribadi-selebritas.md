@@ -3,6 +3,8 @@ title: "Menjaga Kehidupan Pribadi Selebritas di Mata Publik"
 date: "2026-08-18"
 category: "Selebritas"
 excerpt: "Tantangan selebritas menjaga kehidupan pribadi dari sorotan publik, plus cara bijak menyikapi privasi, kritik, dan pemberitaan."
+meta_title: "Menjaga Kehidupan Pribadi Selebritas di Publik"
+meta_description: "Bagaimana selebritas menjaga kehidupan pribadi dari sorotan publik? Simak cara menetapkan batas, menghadapi kritik, dan membangun ketahanan diri."
 tags: ["privasi", "kehidupan pribadi", "selebritas"]
 ---
 

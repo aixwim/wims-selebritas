@@ -3,6 +3,8 @@ title: "Endorsement dan Brand Ambassadorship bagi Selebritas"
 date: "2026-08-18"
 category: "Selebritas"
 excerpt: "Memahami endorsement dan brand ambassadorship: cara kerja, manfaat, hingga risiko kerja sama antara selebritas dan merek."
+meta_title: "Endorsement dan Brand Ambassadorship Selebritas"
+meta_description: "Pahami cara kerja endorsement dan brand ambassadorship, manfaatnya bagi selebritas dan merek, serta risiko yang perlu diwaspadai dalam setiap kemitraan."
 tags: ["endorsement", "brand ambassador", "marketing"]
 ---
 

@@ -3,6 +3,8 @@ title: "Tren Kolaborasi Antarselebritas"
 date: "2026-08-19"
 category: "Selebritas"
 excerpt: "Kolaborasi antarselebritas menjadi tren yang menggabungkan penggemar, memperluas jangkauan, dan melahirkan karya baru yang segar."
+meta_title: "Tren Kolaborasi Antarselebritas di Industri"
+meta_description: "Kolaborasi antarselebritas menggabungkan penggemar dan melahirkan karya segar. Simak keuntungan, bentuk kolaborasi, dan cara memilih pasangan yang tepat."
 tags: ["kolaborasi", "selebritas", "tren", "industri hiburan"]
 ---
 

@@ -3,6 +3,8 @@ title: "Fenomena Fan Art dan Dukungan Penggemar"
 date: "2026-08-19"
 category: "Selebritas"
 excerpt: "Fan art dan dukungan kreatif penggemar menjadi wujud apresiasi yang mempererat hubungan idola dengan komunitasnya di era digital."
+meta_title: "Fenomena Fan Art dan Dukungan Penggemar"
+meta_description: "Fan art adalah wujud apresiasi penggemar yang mempererat hubungan dengan idola. Simak bentuk dukungan kreatif ini dan cara menjaganya tetap positif."
 tags: ["fan art", "penggemar", "fandom", "apresiasi"]
 ---
 

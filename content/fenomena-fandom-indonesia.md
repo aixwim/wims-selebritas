@@ -3,6 +3,8 @@ title: "Fenomena Fandom di Indonesia dan Pengaruhnya"
 date: "2026-08-18"
 category: "Selebritas"
 excerpt: "Mengenal fenomena fandom di Indonesia: bagaimana komunitas penggemar terbentuk, aktif mendukung idolanya, dan berdampak pada industri."
+meta_title: "Fenomena Fandom Indonesia dan Pengaruhnya"
+meta_description: "Bagaimana fandom Indonesia terbentuk, aktif mendukung idola, dan berdampak pada industri? Simak dinamika komunitas penggemar yang semakin kuat."
 tags: ["fandom", "penggemar", "budaya populer"]
 ---
 

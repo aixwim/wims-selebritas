@@ -3,6 +3,8 @@ title: "Etika Membahas Kehidupan Selebritas"
 date: "2026-08-19"
 category: "Selebritas"
 excerpt: "Menelaah batas-batas etika dalam memberitakan dan memperbincangkan kehidupan selebritas, dari privasi hingga penyebaran informasi."
+meta_title: "Etika Membahas Kehidupan Selebritas dan Privasi"
+meta_description: "Apa batas etika saat membahas kehidupan selebritas? Simak pentingnya menghormati privasi, menghindari informasi palsu, dan menjaga pemberitaan yang sehat."
 tags: ["etika", "privasi", "selebritas", "media"]
 ---
 

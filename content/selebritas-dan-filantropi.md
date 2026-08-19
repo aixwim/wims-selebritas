@@ -3,6 +3,8 @@ title: "Selebritas dan Filantropi"
 date: "2026-08-19"
 category: "Selebritas"
 excerpt: "Peran selebritas dalam kegiatan filantropi, dari sumbangan dana hingga pengaruh sosial yang menggerakkan masyarakat untuk berbuat baik."
+meta_title: "Selebritas dan Filantropi: Dampak Positifnya"
+meta_description: "Pelajari peran selebritas dalam filantropi, dari sumbangan dana hingga pengaruh sosial, serta cara menjaga ketulusan di balik setiap aksi kebaikan."
 tags: ["filantropi", "selebritas", "amal", "pengaruh sosial"]
 ---
 
