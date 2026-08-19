@@ -10,7 +10,6 @@
   "category": "selebritas",
   "categoryLabel": "Selebritas",
   "parent": "wims",
-  "children": [],
   "related": [
     "wims-style",
     "wims-entertainment"
@@ -22,5 +21,6 @@
   "giscus": {
     "repoId": "R_kgDOT8FQMg",
     "categoryId": "DIC_kwDOT8FQMs4DDpVI"
-  }
+  },
+  "googleVerification": "dx63Ebn63PlvT6120AIhc7cyImZlvvYthTYPurZA_C8"
 }
